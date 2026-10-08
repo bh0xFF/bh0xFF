@@ -1,38 +1,62 @@
-bh0xFF
+<div align="center">bh0xFF
 
-software / systems / security
+software · systems · security
 
-building things.
-breaking things.
-figuring out why they work.
+"build" · "break" · "debug" · "understand"
 
-"> about"
+</div>---
 
-Разрабатываю софт и изучаю то, что происходит за пределами обычного интерфейса.
+"whoami"
 
-Интересуюсь программированием, системами, reverse engineering, cybersecurity и embedded-разработкой.
+I build software and dig into what happens underneath the interface.
 
-Основной стек:
+Interested in systems, low-level programming, reverse engineering, cybersecurity and embedded development.
+
+I prefer understanding how things work over simply using them.
+
+---
+
+"stack"
+
+Python      ████████████████
+C#          ██████████████
+C++         ███████████
+Go          ████████
+SQL         ███████
 
 "Python" · "C#" · "C++" · "Go" · "SQL"
 
-"> interests"
+---
 
-01  software development
-02  low-level programming
-03  reverse engineering
-04  cybersecurity
-05  embedded systems
-06  Linux
+"focus"
 
-"> mindset"
+- software development
+- low-level programming
+- reverse engineering
+- cybersecurity
+- embedded systems
+- Linux
+
+---
+
+"approach"
+
+build
+  ↓
+break
+  ↓
+debug
+  ↓
+understand
+  ↓
+build better
 
 «Неинтересно просто пользоваться.
 Интересно понять, как это работает.»
 
-build → break → debug → understand
+---
 
-"> contact"
+"contact"
 
 Telegram — "@hoo0drich" (https://t.me/hoo0drich)
 
